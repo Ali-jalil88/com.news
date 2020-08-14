@@ -1,0 +1,16 @@
+.autofocus{
+    background: linear-gradient(to right , red , black) ;
+
+}
+p{
+    background: linear-gradient(to right, #800080, #ffc0cb);
+
+}
+body{
+    background: linear-gradient(to right, #800080, #ffc0cb);
+
+}
+p select{
+    background: linear-gradient(to right, #1f4037, #99f2c8);
+
+}

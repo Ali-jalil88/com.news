@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [13/Aug/2020:10:13:18 +0300] "GET /my-project/test.jsp HTTP/1.1" 200 4750 http-bio-8080-exec-7 93
+0:0:0:0:0:0:0:1 - - [13/Aug/2020:10:13:19 +0300] "GET /my-project/test.css HTTP/1.1" 304 - http-bio-8080-exec-7 457
+0:0:0:0:0:0:0:1 - - [13/Aug/2020:10:13:19 +0300] "GET /my-project/img.jpg HTTP/1.1" 304 - http-bio-8080-exec-7 70
+0:0:0:0:0:0:0:1 - - [13/Aug/2020:10:47:05 +0300] "GET /my-project/test.jsp HTTP/1.1" 200 4750 http-bio-8080-exec-1 190

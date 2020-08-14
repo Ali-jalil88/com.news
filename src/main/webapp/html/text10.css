@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://26.media.tumblr.com/tumblr_m1b0u18jo01qfb46yo1_500.jpg ");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.TOROLA{
+    width: fit-content;
+    height: 50px;
+    background: #f8f8f8;
+}
